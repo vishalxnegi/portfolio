@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My resume",
   "main": "index.js",
-  "homepage": "https://kenny054.github.io/modern_portfolio",
+  "homepage": "https://vishalxnegi.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
