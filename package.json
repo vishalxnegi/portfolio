@@ -1,7 +1,7 @@
 {
-  "name": "modern_portfolio",
+  "name": "resume",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "My resume",
   "main": "index.js",
   "homepage": "https://kenny054.github.io/modern_portfolio",
   "scripts": {
