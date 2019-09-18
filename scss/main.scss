@@ -11,7 +11,7 @@ body {
   color: set-text-color($primary-color);
   height: 100%;
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
 }
 
@@ -140,9 +140,9 @@ main {
   margin-top: 1rem;
 
   div {
-    font-size: 2rem;
+    font-size: 1.3rem;
     border: 3px #fff solid;
-    padding: 1.5rem 2.5rem;
+    padding: 1rem 2rem;
     margin-bottom: 3rem;
     @include easeOut;
 
@@ -181,11 +181,11 @@ main {
   color: #333;
 }
 
-#main-footer { 
+#main-footer {
   text-align: center;
-  padding: 1rem;
+  padding: 0.2rem;
   background: darken($primary-color, 10);
-  color: set-text-color($primary-color);
+  color: set-text-color($primary-color); 
   height: 60px;
 }
 
